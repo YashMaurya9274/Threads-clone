@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-// yatzcool, x17qY2IIjJytEAcQ
 
 let isConnected = false; // variable to check if mongoose is connected
 
